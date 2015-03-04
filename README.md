@@ -893,3 +893,5 @@ compact(["foo", 0]);
 unique(["foo", "foo"]);
 union(["foo"], ["bar"], ["foo"]);
 ```
+
+http://www.sitepoint.com/another-20-docs-guides-front-end-developers/
